@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bedabrata Paul</h1>
 <h3 align="center">A UX/UI Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedabrata2541&label=Profile%20views&color=0e75b6&style=flat" alt="bedabrata2541" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bedabrata2541&label=Profile%20views&color=0e75b6&style=flat" alt="Bedabrata2541" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bedabrata2541" alt="bedabrata2541" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Bedabrata2541" alt="Bedabrata2541" /></a> </p>
 
 - 🔭 I’m currently working in **Zapygo Energy Pvt. Ltd.**
 
